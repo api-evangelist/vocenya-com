@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-vocenya-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://vocenya.com/
+Vocenya provides AI-powered receptionist and AI agents that answer calls, chats, and follow‑up interactions 24/7 for small businesses, with the option to involve skilled human agents when needed. Features include AI‑driven call handling, website chat, WhatsApp, outbound AI calling, appointment booking, and a talent marketplace for human support. Backed by GH Business Solutions, Vocenya offers HIPAA‑mode compliance and integrates with existing phone numbers.
+
+**Areas:** AI · Communication · CustomerService · Automation · Voice
+
+## vocenya-com on APIs.io
+
+Everything profiled for vocenya-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/vocenya-com/](https://apis.io/providers/vocenya-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Vocenya API](https://apis.io/apis/vocenya-com/vocenya-api/) — Vocenya API for managing calls, leads, bookings, chats, and webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Vocenya Com Authentication](https://apis.io/security/vocenya-com/vocenya-com-authentication/)
+- [Vocenya Com Domain Security](https://apis.io/security/vocenya-com/vocenya-com-domain-security/)
+- [Vocenya Com Vulnerability Disclosure](https://apis.io/security/vocenya-com/vocenya-com-vulnerability-disclosure/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Vocenya Com Scopes](https://apis.io/scopes/vocenya-com/vocenya-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Vocenya Com Plans Pricing](https://apis.io/plans/vocenya-com/vocenya-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Vocenya Com Rate Limits](https://apis.io/rate-limits/vocenya-com/vocenya-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://vocenya.com/)
+- [Documentation](https://vocenya.com/developers)
+- [Getting started](https://vocenya.com/developers)
+- [API reference](https://vocenya.com/docs/api.json)
+- [Pricing](https://vocenya.com/pricing)
+- [Sign up](https://vocenya.com/register)
+- [Support](https://vocenya.com/contact)
+- [Changelog](https://vocenya.com/changelog)
+- [Blog](https://vocenya.com/blog)
+- [Security](https://vocenya.com/security)
+- [Terms of service](https://vocenya.com/terms)
+- [Privacy policy](https://vocenya.com/privacy)
+- [Status](https://status.vocenya.com)
+
+## API Evangelist rating
+
+**Kin Score 55.3** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 24.0 |
+| Contract governance | 16.4 |
+| Operational transparency | 75.8 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 43.0** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 37.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/vocenya-com/](https://apis.io/providers/vocenya-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for vocenya-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/vocenya-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
